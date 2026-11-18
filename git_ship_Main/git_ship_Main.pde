@@ -11,7 +11,7 @@ boolean attitudeControl = true;
 boolean artificialGravity = true;
 boolean sensors = true; //turns on sensors
 boolean parkingBrake = false;
-boolean shields = false; //turns on shields
+boolean shields = true; //turns on shields
 
 boolean redAlert = false; //turns on red alert
 
