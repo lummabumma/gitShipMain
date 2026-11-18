@@ -1,8 +1,8 @@
 // Here's where we'll put all the variables to mess with
 
 //crew roster
-String pilot = "Prof Kit";
-String copilot = "";
+String pilot = "Liam K";
+String copilot = "Neven S";
 
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
@@ -11,7 +11,7 @@ boolean attitudeControl = false;
 boolean artificialGravity = false;
 boolean sensors = false; //turns on sensors
 boolean parkingBrake = true;
-boolean shields = false; //turns on shields
+boolean shields = true; //turns on shields
 
 boolean redAlert = false; //turns on red alert
 
